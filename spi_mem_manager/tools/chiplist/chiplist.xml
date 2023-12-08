@@ -704,6 +704,7 @@
       <SST25VF080B id="BF258E" page="SSTW" size="1048576"/>
       <SST25VF512 id="BF48" page="SSTB" size="65536"/>
       <SST25VF512A id="BF48" page="SSTB" size="65536"/>
+      <SST26VF016B id="BF2641" page="256" size="2097152"/>
     </SST>
     <ST>
       <M25C16 page="16" size="2048" spicmd="95"/>
